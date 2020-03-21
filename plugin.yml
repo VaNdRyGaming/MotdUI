@@ -1,0 +1,6 @@
+name: MotdUI
+version: 1.0
+api: 3.11.6
+main: DevAkya\Main
+author: DevAkya
+website: https://github.com/DevAkya
