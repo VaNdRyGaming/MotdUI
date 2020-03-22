@@ -1,6 +1,6 @@
 name: MotdUI
 version: 1.0
 api: 3.11.6
-main: DevAkya\Main
-author: DevAkya
+main: Sls\Main
+author: Sls
 website: https://github.com/DevAkya
